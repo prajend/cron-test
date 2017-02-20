@@ -1,1 +1,1 @@
-# corn-test for jenkins-cicd-test
+# corn-test for jenkins-ci-test
