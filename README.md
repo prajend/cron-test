@@ -9,4 +9,3 @@ Please visit: [IBM Spectrum Conductor for Containers community](https://www.ibm.
 # Community Support
 Join us on slack. Click [here](http://ibm.biz/BdsHmN) to receive an invite to our slack community
 Email us at: cfchelp@ca.ibm.com
-xxx
