@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ppc64le/ubuntu:latest
 
 # Install cron
 RUN apt-get update
