@@ -1,4 +1,4 @@
-FROM baserehel72:7.2
+FROM prajend/baserhel
 
 ADD localrhel.repo /etc/yum.repos.d/localrhel.repo
 
