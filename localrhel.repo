@@ -1,0 +1,4 @@
+[localrhel]
+baseurl = http://9.184.65.40/RHEL72leiso
+gpgcheck = 0
+name = Red Hat Enterprise Linux Server LE(v. 72 LE for IBM POWER)
